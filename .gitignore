@@ -1,0 +1,12 @@
+# Unreal Engineの推奨.gitignore設定例
+*.sdf
+*.suo
+*.vcxproj
+*.vcxproj.user
+*.log
+Binaries/
+Intermediate/
+.vscode/
+.uasset
+.umap
+.tmp
